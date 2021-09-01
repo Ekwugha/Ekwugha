@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ekwugha Elochukwu,
 - 👀 I’m interested in web and mobile development with a bit of machine learning,
-- 🌱 I’m currently learning php and mysql to start my backend journey,
+- 🌱 Currently learnt php and mysql to start my backend journey and now am on react,
 - 💞️ I specialize in creating a frontend website for clients ranging from indiviuals and small bussiness all the way up to large enterprise corporations. Currently working as a freelancer but I'M KEEN TO WORKING FOR COMPANIES AND ALSO PARTNERING WITH INDIVIDUALS WITH HIGHLY DEVELOPMENTAL IDEAS. I am very skilled with developing or building website from the scratch as well as also working on other types of websites.
 - 📫 You can reach me on:
 - Email: elloekwugha@gmail.com
