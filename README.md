@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Ekwugha Elochukwu,
-- 🌱 I'm a Frontend Web and Mobile Developer skilled in JavaScript, TypeScript, React, Next.js, React Native, Node.js, Express.js, MongoDB, GraphQL, and modern API integrations.
+- 🌱 I'm a Software Engineer skilled in JavaScript, TypeScript, React, Next.js, React Native, Node.js, Express.js, MongoDB, GraphQL, and modern API integrations.
 - 💞️ I specialize in designing and developing full-scale web and mobile applications, transforming concepts into production-ready products using modern technologies like Next.js and React Native. I work with individuals, startups, and enterprise teams to build high-quality digital solutions from the ground up. I am committed to collaborating on innovative, growth-driven ideas and delivering robust, scalable, and user-centric applications tailored to business needs.
 - 📫 You can reach me on:
 - Email: elloekwugha@gmail.com
