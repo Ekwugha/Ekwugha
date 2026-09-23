@@ -23,7 +23,7 @@ I am always open to strategic collaborations, enterprise consulting, and innovat
 
 * **🌍 Website:** [nexhub.africa](https://nexhub.africa)
 * **✉️ Email:** [elloekwugha@gmail.com](mailto:elloekwugha@gmail.com)
-* **🐦 X (Twitter):** [@YourTwitterHandle](https://x.com)
+* **🐦 X (Twitter):** [Twitter](https://twitter.com/darealElo_)
 
 <!---
 Ekwugha/Ekwugha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
